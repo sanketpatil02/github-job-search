@@ -1,0 +1,12 @@
+.Card-Holder {
+	margin: 2rem;
+}
+.job-detail {
+	display: inline-block;
+}
+
+.job detail p {
+	display: inline-block;
+	float: left;
+	overflow: auto;
+}

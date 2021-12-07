@@ -1,0 +1,37 @@
+header-container {
+	background: hsl(223, 36%, 10%);
+	height: 80px;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	position: sticky;
+	top: 0;
+	z-index: 999;
+}
+.input {
+	width: 100%;
+}
+.center-input {
+	width: 50%;
+	margin: 5rem auto;
+	display: flex;
+	flex-direction: column;
+}
+.results-heading {
+	width: 100%;
+	text-align: center;
+}
+
+card-Holder {
+	width: 100%;
+	margin: 2rem;
+}
+
+.footer-container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 20px 0;
+}
